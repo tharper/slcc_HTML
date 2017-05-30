@@ -25,7 +25,7 @@ Navigate to the Repo.
 Create a new directory to store your completed assinments.  The new directory should be titled your name. Example:  firstNameLastName
 ```mkdir tysonHarper```
 
-Now we need to commit the changes you made in the previously step. But first, let chech the status of our rep and files.  
+Now we need to commit the changes you made in the previously step. But first, lets check the status of our rep and files.  
 
 ```git status```
 

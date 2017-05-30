@@ -5,6 +5,6 @@ This repository contains files for the SLCC course, Website Structure with HTML.
 This activity will guide you through some of the basics of using git.
 
 ###Git Config (one time initial setup)
-```git config --global user.name "Jimi Jamison"
-git config --global user.email "myemail@gmail.com"```
+```git config --global user.name "Jimi Jamison"```
+```git config --global user.email "myemail@gmail.com"```
 

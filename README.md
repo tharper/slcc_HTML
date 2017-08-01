@@ -31,7 +31,7 @@ Now we need to commit the changes you made in the previously step. But first, le
 
 ```git add . ```
 
-```git commit -m "Some message goes here```
+```git commit -m "Some message goes here"```
 
 Now that we have made the changes, you will need to merge these changes into your master forked branch.
 

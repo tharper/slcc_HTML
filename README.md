@@ -64,7 +64,7 @@ Favorite food
 
 
 ### Table Exercise 2
-Recreate the following image using HTML Tables.  
+Recreate the following image using HTML tables.  
 
 ![alt text](https://raw.githubusercontent.com/tharper/slcc_HTML/master/img/table.png)
 
@@ -73,10 +73,14 @@ Create a simple contact form that captures
 * Name
 * Phone
 * Email
+* Comments Box
 
 * Use the POST method and inspect the data being passed in the browser. Then change to GET method and inspect the data being passed.
 * What is different between the 2 methods.
 * When would you use GET vs POST?.
 
+
+## Course Assessment
+Commit your code for your resume, table exercises, and form exercise.  Once you have pushed to your repo generate a pull request.
 
 

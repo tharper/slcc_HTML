@@ -48,6 +48,8 @@ You may use placeholder text as needed (lorem ipsum).
 Add photo of yourself to your resume.
 
 ## Day 3 - HTML Tables
+
+### Table Exercise 1
 Each student will create an HTML table containing class mates info.
 First Name,
 Last Name,
@@ -57,11 +59,24 @@ Favorite food
 | First name        | Last Name          | Hobby | Favorite Food | 
 | ------------- |:-------------:| -----:| ------ |
 | Jimmy     | James| Swimming | Apples |
-| Jimmy     | James| Swimming | Apples |
-| Jimmy     | James| Swimming | Apples |
+| Ryan      | Butner| Golf | eggs |
+| Jeff     | Clementine| Drawing | pizza |
 
+
+### Table Exercise 2
 Recreate the following image using HTML Tables.  
 
 ![alt text](https://raw.githubusercontent.com/tharper/slcc_HTML/master/img/table.png)
+
+### Form Exercise 
+Create a simple contact form that captures
+* Name
+* Phone
+* Email
+
+* Use the POST method and inspect the data being passed in the browser. Then change to GET method and inspect the data being passed.
+* What is different between the 2 methods.
+* When would you use GET vs POST?.
+
 
 

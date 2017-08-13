@@ -43,17 +43,22 @@ https://try.github.io/levels/1/challenges/1
 
 ## Day 2 - HTML Activity
 Create a resume that includes your name, education, work history.  
-Make sure to use semantic markup
-You may use placeholder text as needed (lorem ipsum)
-Download a photo of yourself to add to your resume
+Make sure to use semantic markup.
+You may use placeholder text as needed (lorem ipsum).
+Add photo of yourself to your resume.
 
 ## Day 3 - HTML Tables
-Each student will create an HTML table containing fellow students’ info
-First Name
-Last Name
-Hobby
+Each student will create an HTML table containing class mates info.
+First Name,
+Last Name,
+Hobby,
 Favorite food
-Zodiac Sign
+
+| First name        | Last Name          | Hobby | Favorite Food | 
+| ------------- |:-------------:| -----:| ------ |
+| Jimmy     | James| Swimming | Apples |
+| Jimmy     | James| Swimming | Apples |
+| Jimmy     | James| Swimming | Apples |
 
 Recreate the following image using HTML Tables.  
 

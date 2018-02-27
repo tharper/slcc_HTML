@@ -41,13 +41,13 @@ Now that we have made the changes, you will need to merge these changes into you
 https://try.github.io/levels/1/challenges/1
 
 
-## Day 2 - HTML Activity
+## Day 1 - HTML Activity
 Create a resume that includes your name, education, work history.  
 Make sure to use semantic markup.
 You may use placeholder text as needed (lorem ipsum).
 Add photo of yourself to your resume.
 
-## Day 3 - HTML Tables
+## Day 2 - HTML Tables
 
 ### Table Exercise 1
 Each student will create an HTML table containing class mates info.

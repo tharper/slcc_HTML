@@ -14,16 +14,76 @@
 			<li>3-form</li>
 			<li>pictureline.com</li>
 		</ul>
+		<!-- Simple form which will send a GET request --> 
+		<form action="" method="POST"> 
+			<p>
+				<label for="name">Name:</label> 
+				<input id="name" type="text" name="name" placeholder="Full Name"> 
+			</p>
+
+		<!--CHECK BOXES -->
+			<p>
+				<label for="transportation">Transportation:</label><br>
+				<input type="checkbox" name="hasBike" value="true"> I have a bike<br>
+  				<input type="checkbox" name="hasCar" value="true"> I have a car<br>
+  				<input type="checkbox" name="hasBoat" value="true" checked> I have a boat
+  			</p>
+
+  		<!--RADIO -->
+  		<p>
+  			<input type="radio" name="gender" value="male"> Male<br>
+  			<input type="radio" name="gender" value="female"> Female<br>
+  			<input type="radio" name="gender" value="other"> Other<br>  
+  		</p>
+
+		<!--DROP DOWN -->
+			<label for="name">Car:</label> 
+			<select name="car">
+  				<option value="volvo">Volvo</option>
+  				<option value="saab">Saab</option>
+  				<option value="mercedes">Mercedes</option>
+  				<option value="audi">Audi</option>
+			</select>
+			<br /><br />
+
+		<!--TEXT AREA -->
+			<label for="message">Message:</label><br /> 
+			<textarea name="message" rows="4" cols="50"></textarea>
+		
+
+		<!--PASSWORD INPUT -->
+
+		<p>
+			<label for="password">Password:</label> 
+			<input type="password" name="psw">
+		</p>
+
+		<!--COLOR SELECTOR -->
+		<p><input type="color" name="favcolor"></p>
+
+		<!--DATE SELECTOR -->
+		<p>
+			<label for="date">Date Selector:</label> 
+			<input type="date" name="bday">
+		</p>
+
+		<!--EMAIL INPUT -->
+		<p>
+			<label for="email">Email:</label> 
+			<input type="email" name="email">
+		</p>
+
+		<!--URL INPUT -->
+		<p>
+			<label for="url">Website:</label> 
+			<input type="url" name="homepage">
+		</p>
+
+		<input type="submit" value="Save"> 
+	</form> 
+
+
+
+
 </body>
 </html>
-
-install git on your computer
-git clone linkToYourRepo  https://github.com/tharper/slcc_HTML
-
-git status
-
-git add .
-
-git commit -m "Some Message"
-
-git push
